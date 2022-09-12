@@ -4,4 +4,9 @@ venv
 __pycache__
 test.db
 Education_Pathways/frontend/node_modules
-#track build 
+#track build
+env
+*.pyc
+*.DS_Store
+__pycache__
+test.db
